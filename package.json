@@ -1,0 +1,13 @@
+{
+  "name": "xhs-coze-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "xhs-signer": "^1.3.0",
+    "axios": "^1.6.0"
+  }
+}
